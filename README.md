@@ -1,1 +1,2 @@
-# Sample-C-code
+# C-code
+# School projects
